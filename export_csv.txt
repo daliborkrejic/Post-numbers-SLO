@@ -232,7 +232,6 @@
 1251	Moravče
 9226	Moravske Toplice
 5216	Most na Soči
-8257	Mostec
 1221	Motnik
 3330	Mozirje
 9000	Murska Sobota
